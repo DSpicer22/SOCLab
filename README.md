@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This lab simulates a modern Security Operations Center (SOC) environment using Microsoft Azure and Microsoft Sentinel. It is designed to demonstrate the deployment, integration, and operational workflows of a cloud-native SIEM platform in detecting and analyzing real-world cybersecurity threats.
+This lab simulates a modern Security Operations Center (SOC) environment using Microsoft Azure, incorporating the deployment of a honeynet to attract and monitor malicious activity. It demonstrates the configuration, integration, and operational workflows of a cloud-native SIEM (Microsoft Sentinel), for detecting, analyzing, and responding to real-world cybersecurity threats.
 
 ![Image](https://github.com/user-attachments/assets/f6282110-478c-4f15-b32b-7618d660a726)
 
@@ -11,9 +11,10 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 - <b>Setting up a Virtual Machine in Microsoft Azure.</b>
 - <b>Provisioning and configuring a Log Analytics Workspace for data collection.</b>
 - <b>Routing logs to Microsoft Sentinel for centralized security monitoring.</b>
-- <b>Analyzing failed login attempts and visualized their origin to identify potential attack sources.</b>
-- <b>Developing a real-time threat map to monitor malicious activity across the network.</b>
-
+- <b>Creating a Watchlist to enrich threat detection and correlation within Microsoft Sentinel.</b>
+- <b>Developing a custom workbook to visualize security insights and trends.</b>
+- <b>Analyzing failed login attempts and visualizing their geographic origin to identify potential attack sources.</b>
+- <b>Developing a real-time threat/attack map to monitor malicious activity across the network.</b>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -412,14 +413,3 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 
 
 
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
