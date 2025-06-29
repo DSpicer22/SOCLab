@@ -18,7 +18,7 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 
 
 
-<h2>Languages and Utilities Use:d</h2>
+<h2>Languages and Utilities Used:</h2>
 
 - <b>Kusto Query Language (KQL): Used to analyze logs and build detections/dashboards.</b>
 - <b>Azure Virtual Machines: Host honeypot environments (Windows)</b> 
