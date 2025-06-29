@@ -17,13 +17,14 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 - <b>Developing a real-time threat/attack map to monitor malicious activity across the network.</b>
 
 
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>Kusto Query Language (KQL): Used to analyze logs and build detections/dashboards.</b>
 - <b>Azure Virtual Machines: Host honeypot environments (Windows)</b> 
 - <b>Azure Network Security Groups (NSGs): To control traffic and expose only certain ports (to lure attackers). </b>
-- <b>Azure Storage / Log Analytics Workspace: To store logs and events from the honeypot.</b>
-- <b>Data Connectors: Ingest logs from honeypots (e.g., Windows Event Logs).</b>
+- <b>Azure Storage / Log Analytics Workspace: To store logs and events from the honeynet.</b>
+- <b>Data Connectors: Ingest logs from the honeynet (e.g., Windows Event Logs).</b>
 
 <h2>Program walk-through:</h2>
 
