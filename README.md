@@ -24,17 +24,6 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 - <b>Azure Storage / Log Analytics Workspace: To store logs and events from the honeypot.</b>
 - <b>Data Connectors: Ingest logs from honeypots (e.g., Windows Event Logs).</b>
 
-
-
-<h2>Azure Cloud Environments Used </h2>
-
-- <b>Azure Resource Groups: Logical containers to organize all honeypot-related resources (VMs, storage, networking, etc.)</b>
-- <b>Azure Virtual Networks (VNets): Private, isolated networks where your honeypot VMs reside.</b>
-- <b>Microsoft Sentinel: Cloud-native SIEM for real-time monitoring and incident response</b>
-- <b>Azure Log Analytics: Central workspace for log ingestion and querying</b>
-- <b>Custom KQL Queries: For threat hunting, anomaly detection, and reporting</b>
-
-
 <h2>Program walk-through:</h2>
 
 <p align="center">Create Resource Group</p> 
