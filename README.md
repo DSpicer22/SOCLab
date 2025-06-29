@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This lab simulates a modern Security Operations Center (SOC) environment using Microsoft Azure and Microsoft Sentinel. It is designed to demonstrate the deployment, integration, and operational workflows of a cloud-native SIEM platform in detecting, analyzing, and responding to real-world cybersecurity threats.
+This lab simulates a modern Security Operations Center (SOC) environment using Microsoft Azure and Microsoft Sentinel. It is designed to demonstrate the deployment, integration, and operational workflows of a cloud-native SIEM platform in detecting and analyzing real-world cybersecurity threats.
 
 ![Image](https://github.com/user-attachments/assets/f6282110-478c-4f15-b32b-7618d660a726)
 
