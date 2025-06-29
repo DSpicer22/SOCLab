@@ -1,4 +1,4 @@
-<h1>Home SOC Lab using Microsoft Azure and Microsoft Sentinel</h1>
+<h1>Home SOC Honeynet Lab using Microsoft Azure and Microsoft Sentinel</h1>
 
 
 <h2>Description</h2>
