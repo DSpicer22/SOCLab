@@ -412,5 +412,10 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 
 ![Image](https://github.com/user-attachments/assets/3393ad21-6f89-48d1-ab18-632ee07bd2af)
 
+<h2>Conclusion:</h2>
+This lab has demonstrated the foundational elements of building a cloud-based security monitoring solution using Microsoft Azure and Microsoft Sentinel. By provisioning a Virtual Machine and configuring a Log Analytics Workspace, we established a reliable pipeline for collecting security-relevant data. Routing this telemetry to Microsoft Sentinel enabled centralized visibility and correlation of events.
 
+Key enhancements, such as the creation of a Watchlist and a custom workbook, enriched threat detection capabilities and provided tailored visual insights into security trends. Through the analysis of failed login attempts and their geographic origins, we gained actionable intelligence on potential brute-force or credential-stuffing attacks. Additionally, the development of a real-time threat map allowed for intuitive and immediate awareness of malicious activity across the monitored environment.
+
+Overall, this lab reinforced the importance of proactive detection, visualization, and contextual enrichment in modern Security Operations Centers (SOCs) and showcased the powerful, scalable capabilities of Microsoft Sentinel as a cloud-native SIEM solution.
 
