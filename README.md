@@ -344,7 +344,7 @@ This lab simulates a modern Security Operations Center (SOC) environment using M
 
 ![Image](https://github.com/user-attachments/assets/a25e3666-7e9f-469a-b55d-a5d659d8a07a)
 
-<p align="center">Navigate back to the Microsoft Sentinel resource in the Azure Portal, ensure you select the Log Analytics Workspace you created earlier, navigate to "Threat MAnagement" and select "Workbooks".</p>
+<p align="center">Navigate back to the Microsoft Sentinel resource in the Azure Portal, ensure you select the Log Analytics Workspace you created earlier, navigate to "Threat Management" and select "Workbooks".</p>
 
 ![Image](https://github.com/user-attachments/assets/8142a2d2-718f-47b8-9a6a-5e434852f4c7)
 
